@@ -83,7 +83,7 @@
 * [Non Combinable](non-combinable.md)
 * [Compatibility with other mods](compatibility-with-other-mods.md)
 * [Modify balancing](modify-balancing.md)
-* [Technical ](technical/README.md)
+* [Technical](technical/README.md)
   * [Block Configuration](technical/block-configuration.md)
   * [Entity Configuration](technical/entity-configuration.md)
   * [Special: Auto Smelt](technical/special-auto-smelt.md)
@@ -91,6 +91,7 @@
 ## Yggdrasil
 
 * [Getting Started](yggdrasil/getting-started.md)
+* [Yggdrasil Alternative](yggdrasil/yggdrasil-alternative.md)
 * [Structure](yggdrasil/structure/README.md)
   * [Asflors Village](yggdrasil/structure/asflors-village.md)
   * [Alfheim](yggdrasil/structure/alfheim.md)
