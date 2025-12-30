@@ -7,9 +7,6 @@
 ## Neo Enchant+
 
 * [Getting Started](neo-enchant+/getting-started.md)
-
-***
-
 * [Enchantment](enchantment/README.md)
   * [Armor Enchantment](enchantment/armor-enchantment/README.md)
     * [Fury](enchantment/armor-enchantment/fury.md)
@@ -104,9 +101,6 @@
   * [Glaosheimr](yggdrasil/structure/glaosheimr.md)
   * [Cubeoid](yggdrasil/structure/cubeoid.md)
   * [Steles](yggdrasil/structure/steles.md)
-
-***
-
 * [Runic Dimension](runic-dimension.md)
 * [The items](the-items.md)
 * [Reva (Pet)](reva-pet.md)
