@@ -35,7 +35,7 @@ _**The Price is Doubled:**_ These enchantments get charged twice as much in vill
 
 </details>
 
-<figure><img src="../../.gitbook/assets/all.png" alt=""><figcaption><p>Darker boxes represent true, lighter boxes false</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/all_availbe.png" alt=""><figcaption><p>Darker boxes represent true, lighter boxes false</p></figcaption></figure>
 
 ***
 

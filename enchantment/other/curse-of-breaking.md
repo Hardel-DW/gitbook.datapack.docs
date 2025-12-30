@@ -58,7 +58,7 @@ If Primary Items is not specified, then it is set to Supported Items.
 
 </details>
 
-<figure><img src="../../.gitbook/assets/ALL.png" alt=""><figcaption><p>Durability - Enchanting Table and Anvil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/all_items.png" alt=""><figcaption><p>Durability - Enchanting Table and Anvil</p></figcaption></figure>
 
 
 
