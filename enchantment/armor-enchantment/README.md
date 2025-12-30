@@ -6,7 +6,7 @@ noIndex: true
 
 _These enchantments apply to all armor pieces (helmet, chestplate, leggings, boots)._
 
-## Life+
+## <mark style="color:orange;">Life+</mark>
 
 Increase the maximum health of the player, the player will have more hearts.
 
@@ -14,7 +14,7 @@ Increase the maximum health of the player, the player will have more hearts.
 [life+.md](life+.md)
 {% endcontent-ref %}
 
-## Venom Protection
+## <mark style="color:orange;">Venom Protection</mark>
 
 Protects the player from poison, with superior level, the player will be immune to wither.
 
@@ -22,7 +22,7 @@ Protects the player from poison, with superior level, the player will be immune 
 [venom-protection.md](venom-protection.md)
 {% endcontent-ref %}
 
-## Fury
+## <mark style="color:orange;">Fury</mark>
 
 Decrease armor but increase attack damage, add penetration to the attack.
 

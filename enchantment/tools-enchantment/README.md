@@ -6,7 +6,7 @@ noIndex: true
 
 _These enchantments apply to multiple types of tools._
 
-## Timber
+## <mark style="color:orange;">Timber</mark>
 
 When breaking a wood block, all connected wood blocks will be broken.
 
@@ -14,7 +14,7 @@ When breaking a wood block, all connected wood blocks will be broken.
 [timber.md](timber.md)
 {% endcontent-ref %}
 
-## Scyther
+## <mark style="color:orange;">Scyther</mark>
 
 Use left click on grass to transform it into farmland in zone depending of level.
 
@@ -22,7 +22,7 @@ Use left click on grass to transform it into farmland in zone depending of level
 [scyther.md](scyther.md)
 {% endcontent-ref %}
 
-## Harvest
+## <mark style="color:orange;">Harvest</mark>
 
 Enhances farming capabilities, improves crop harvesting efficiency.
 
@@ -30,7 +30,7 @@ Enhances farming capabilities, improves crop harvesting efficiency.
 [harvest.md](harvest.md)
 {% endcontent-ref %}
 
-## Auto Smelt
+## <mark style="color:orange;">Auto Smelt</mark>
 
 When breaking a block, the block will be automatically smelted.
 
@@ -38,7 +38,7 @@ When breaking a block, the block will be automatically smelted.
 [auto-smelt.md](auto-smelt.md)
 {% endcontent-ref %}
 
-## Mining+
+## <mark style="color:orange;">Mining+</mark>
 
 Break in a zone of 3x3, depending of the direction of the player.
 
@@ -46,7 +46,7 @@ Break in a zone of 3x3, depending of the direction of the player.
 [mining+.md](mining+.md)
 {% endcontent-ref %}
 
-## Vein Miner
+## <mark style="color:orange;">Vein Miner</mark>
 
 When breaking a block, all connected minerals of the same type will be broken.
 
@@ -54,7 +54,7 @@ When breaking a block, all connected minerals of the same type will be broken.
 [vein-miner.md](vein-miner.md)
 {% endcontent-ref %}
 
-## Bedrock Breaker
+## <mark style="color:orange;">Bedrock Breaker</mark>
 
 The player can break bedrock, requires a pickaxe with this enchantment.
 
@@ -62,7 +62,7 @@ The player can break bedrock, requires a pickaxe with this enchantment.
 [bedrock-breaker.md](bedrock-breaker.md)
 {% endcontent-ref %}
 
-## Spawner Touch
+## <mark style="color:orange;">Spawner Touch</mark>
 
 The player can break spawner and get it, works on trial spawner and normal spawner.
 

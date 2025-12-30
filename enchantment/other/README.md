@@ -6,7 +6,7 @@ noIndex: true
 
 _These enchantments have special effects or can be applied to various items._
 
-## Xp Boost
+## <mark style="color:orange;">Xp Boost</mark>
 
 Increase the player's experience gain when killing entities.
 
@@ -14,7 +14,7 @@ Increase the player's experience gain when killing entities.
 [xp-boost.md](xp-boost.md)
 {% endcontent-ref %}
 
-## Curse of Breaking
+## <mark style="color:orange;">Curse of Breaking</mark>
 
 The item loses durability with each use with an increasing chance based on level.
 
@@ -22,7 +22,7 @@ The item loses durability with each use with an increasing chance based on level
 [curse-of-breaking.md](curse-of-breaking.md)
 {% endcontent-ref %}
 
-## Curse of Enchant
+## <mark style="color:orange;">Curse of Enchant</mark>
 
 The item can no longer be enchanted.
 
@@ -30,7 +30,7 @@ The item can no longer be enchanted.
 [curse-of-enchant.md](curse-of-enchant.md)
 {% endcontent-ref %}
 
-## Midas Touch
+## <mark style="color:orange;">Midas Touch</mark>
 
 Transforms blocks into gold ore or gold blocks when hit, consuming significant durability.
 
@@ -38,7 +38,7 @@ Transforms blocks into gold ore or gold blocks when hit, consuming significant d
 [midas-touch.md](midas-touch.md)
 {% endcontent-ref %}
 
-## Armored
+## <mark style="color:orange;">Armored</mark>
 
 Adds 9 points of protection, increases the player's armor when using elytra.
 
@@ -46,7 +46,7 @@ Adds 9 points of protection, increases the player's armor when using elytra.
 [armored.md](armored.md)
 {% endcontent-ref %}
 
-## Kinetic Protection
+## <mark style="color:orange;">Kinetic Protection</mark>
 
 Adds 6 points of protection per level (30 at level V) when flying, reduces impact damage.
 
@@ -54,7 +54,7 @@ Adds 6 points of protection per level (30 at level V) when flying, reduces impac
 [kinectic-protection.md](kinectic-protection.md)
 {% endcontent-ref %}
 
-## Propulsion
+## <mark style="color:orange;">Propulsion</mark>
 
 Accelerate at fireworks speed when pressing jump in flight, consumes food points.
 

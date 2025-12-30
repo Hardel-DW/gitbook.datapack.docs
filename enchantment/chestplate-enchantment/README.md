@@ -6,7 +6,7 @@ noIndex: true
 
 _These enchantments apply to chestplates and elytra._
 
-## Builder Arm
+## <mark style="color:orange;">Builder Arm</mark>
 
 The player can place blocks from more distance, the player can also break blocks from more distance.
 
@@ -14,7 +14,7 @@ The player can place blocks from more distance, the player can also break blocks
 [builder-arm.md](builder-arm.md)
 {% endcontent-ref %}
 
-## Magnet
+## <mark style="color:orange;">Magnet</mark>
 
 Attracts nearby items to the player automatically.
 
@@ -22,7 +22,7 @@ Attracts nearby items to the player automatically.
 [magnet.md](magnet.md)
 {% endcontent-ref %}
 
-## Armored
+## <mark style="color:orange;">Armored</mark>
 
 Adds 9 points of protection, increases the player's armor when using elytra.
 
@@ -30,7 +30,7 @@ Adds 9 points of protection, increases the player's armor when using elytra.
 [armored.md](../other/armored.md)
 {% endcontent-ref %}
 
-## Kinetic Protection
+## <mark style="color:orange;">Kinetic Protection</mark>
 
 Adds 6 points of protection per level (30 at level V) when flying, reduces impact damage.
 
@@ -38,7 +38,7 @@ Adds 6 points of protection per level (30 at level V) when flying, reduces impac
 [kinectic-protection.md](../other/kinectic-protection.md)
 {% endcontent-ref %}
 
-## Happy Boost
+## <mark style="color:orange;">Happy Boost</mark>
 
 Increases flying speed by 50% at level one and 30% per level.
 

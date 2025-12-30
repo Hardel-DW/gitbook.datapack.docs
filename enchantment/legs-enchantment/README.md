@@ -6,7 +6,7 @@ noIndex: true
 
 _These enchantments apply specifically to leggings._
 
-## Dwarfed
+## <mark style="color:orange;">Dwarfed</mark>
 
 The size of the entity is reduced.
 
@@ -14,7 +14,7 @@ The size of the entity is reduced.
 [dwarfed.md](dwarfed.md)
 {% endcontent-ref %}
 
-## Fast Swim
+## <mark style="color:orange;">Fast Swim</mark>
 
 The player can swim faster.
 
@@ -22,7 +22,7 @@ The player can swim faster.
 [fast-swim.md](fast-swim.md)
 {% endcontent-ref %}
 
-## Leaping
+## <mark style="color:orange;">Leaping</mark>
 
 The player can jump higher.
 
@@ -30,7 +30,7 @@ The player can jump higher.
 [leaping.md](leaping.md)
 {% endcontent-ref %}
 
-## Oversize
+## <mark style="color:orange;">Oversize</mark>
 
 The size of the entity is increased.
 

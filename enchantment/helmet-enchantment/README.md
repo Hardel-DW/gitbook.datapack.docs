@@ -6,7 +6,7 @@ noIndex: true
 
 _These enchantments apply specifically to helmets._
 
-## Voidless
+## <mark style="color:orange;">Voidless</mark>
 
 The player is immune to the void, the player will get a brief levitation effect when falling into the void.
 
@@ -14,7 +14,7 @@ The player is immune to the void, the player will get a brief levitation effect 
 [voidless.md](voidless.md)
 {% endcontent-ref %}
 
-## Bright Vision
+## <mark style="color:orange;">Bright Vision</mark>
 
 The player has night vision, the player can see in the dark.
 
@@ -22,7 +22,7 @@ The player has night vision, the player can see in the dark.
 [bright-vision.md](bright-vision.md)
 {% endcontent-ref %}
 
-## Auto Feed
+## <mark style="color:orange;">Auto Feed</mark>
 
 Every minute, the player automatically receives a few saturation points.
 

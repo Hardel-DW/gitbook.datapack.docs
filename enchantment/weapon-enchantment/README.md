@@ -6,7 +6,7 @@ noIndex: true
 
 _These enchantments apply to swords, adding special effects to melee attacks._
 
-## Fear
+## <mark style="color:orange;">Fear</mark>
 
 When hitting a creeper, increment the timer of the creeper explosion.
 
@@ -14,7 +14,7 @@ When hitting a creeper, increment the timer of the creeper explosion.
 [fear.md](fear.md)
 {% endcontent-ref %}
 
-## Life Steal
+## <mark style="color:orange;">Life Steal</mark>
 
 When hitting an entity, the player recovers some health.
 
@@ -22,7 +22,7 @@ When hitting an entity, the player recovers some health.
 [life-steal.md](life-steal.md)
 {% endcontent-ref %}
 
-## Pull
+## <mark style="color:orange;">Pull</mark>
 
 After killing an entity, have a chance to get the spawn egg of the entity.
 
@@ -30,7 +30,7 @@ After killing an entity, have a chance to get the spawn egg of the entity.
 [pull.md](pull.md)
 {% endcontent-ref %}
 
-## Attack Speed
+## <mark style="color:orange;">Attack Speed</mark>
 
 Increase the player's attack speed.
 
@@ -38,7 +38,7 @@ Increase the player's attack speed.
 [attack-speed.md](attack-speed.md)
 {% endcontent-ref %}
 
-## Reach
+## <mark style="color:orange;">Reach</mark>
 
 Increase the player's reach distance.
 
@@ -46,7 +46,7 @@ Increase the player's reach distance.
 [reach.md](reach.md)
 {% endcontent-ref %}
 
-## Tears of Asflors
+## <mark style="color:orange;">Tears of Asflors</mark>
 
 Converts player experience into attack damage.
 
@@ -54,7 +54,7 @@ Converts player experience into attack damage.
 [tears-of-asflors.md](tears-of-asflors.md)
 {% endcontent-ref %}
 
-## Last Hope
+## <mark style="color:orange;">Last Hope</mark>
 
 Consumes the item to deal infinite damage to the target.
 
@@ -62,7 +62,7 @@ Consumes the item to deal infinite damage to the target.
 [last-hope.md](last-hope.md)
 {% endcontent-ref %}
 
-## Poison Aspect
+## <mark style="color:orange;">Poison Aspect</mark>
 
 Applies poison effect to players and wither effect to non-player entities when hit.
 
@@ -70,7 +70,7 @@ Applies poison effect to players and wither effect to non-player entities when h
 [poison-aspect.md](poison-aspect.md)
 {% endcontent-ref %}
 
-## Critical
+## <mark style="color:orange;">Critical</mark>
 
 Has a chance to ignore a portion of the enemy's armor when attacking.
 
@@ -78,7 +78,7 @@ Has a chance to ignore a portion of the enemy's armor when attacking.
 [critical.md](critical.md)
 {% endcontent-ref %}
 
-## Runic Despair
+## <mark style="color:orange;">Runic Despair</mark>
 
 Deals increased damage when in the Runic Dimension.
 
@@ -86,7 +86,7 @@ Deals increased damage when in the Runic Dimension.
 [runic-despair.md](runic-despair.md)
 {% endcontent-ref %}
 
-## Death Touch
+## <mark style="color:orange;">Death Touch</mark>
 
 Has a chance to instantly kill the target entity.
 
@@ -94,7 +94,7 @@ Has a chance to instantly kill the target entity.
 [death-touch.md](death-touch.md)
 {% endcontent-ref %}
 
-## Dimensional Hit
+## <mark style="color:orange;">Dimensional Hit</mark>   
 
 Deals additional damage when in dimensions other than the Overworld.
 
@@ -102,7 +102,7 @@ Deals additional damage when in dimensions other than the Overworld.
 [dimensionnal-hit.md](dimensionnal-hit.md)
 {% endcontent-ref %}
 
-## Curse of Clumsiness
+## <mark style="color:orange;">Curse of Clumsiness</mark>
 
 Reduces damage by -2 at level one and -1 per level. Curse Enchantment.
 
@@ -110,7 +110,7 @@ Reduces damage by -2 at level one and -1 per level. Curse Enchantment.
 [curse-of-clumsiness-1.21.6.md](curse-of-clumsiness-1.21.6.md)
 {% endcontent-ref %}
 
-## Gungnir Breath
+## <mark style="color:orange;">Gungnir Breath</mark>
 
 Applies Slowness I-II for 3-5 seconds, freezes water into ice, creates visual ice spikes on impact.
 
@@ -118,7 +118,7 @@ Applies Slowness I-II for 3-5 seconds, freezes water into ice, creates visual ic
 [gungnir-breath.md](gungnir-breath.md)
 {% endcontent-ref %}
 
-## Striker
+## <mark style="color:orange;">Striker</mark>
 
 When smashing an entity with mace, have chance to create a lightning bolt at the impact point.
 
@@ -126,7 +126,7 @@ When smashing an entity with mace, have chance to create a lightning bolt at the
 [striker.md](striker.md)
 {% endcontent-ref %}
 
-## Wind Propulsion
+## <mark style="color:orange;">Wind Propulsion</mark>
 
 When on ground, you can attack the ground to propel yourself in the air.
 
@@ -134,7 +134,7 @@ When on ground, you can attack the ground to propel yourself in the air.
 [wind-propulsion.md](wind-propulsion.md)
 {% endcontent-ref %}
 
-## Telluric Wave
+## <mark style="color:orange;">Telluric Wave</mark>
 
 Creates a seismic wave that launches targets into the air when sneaking.
 
