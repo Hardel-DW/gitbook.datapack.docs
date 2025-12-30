@@ -38,6 +38,7 @@ _These enchantments apply to swords, adding special effects to melee attacks._
 * **Runic Despair** : (Sword) Deals increased damage when in the Runic Dimension.
 * **Death Touch** : (Sword) Has a chance to instantly kill the target entity.
 * **Dimensional Hit** : (Sword) Deals additional damage when in dimensions other than the Overworld.
+* **Curse of Clumsiness** : (Sword) Reduces damage by -2 at level one and -1 per level. Curse Enchantment.
 
 ***
 
@@ -46,9 +47,11 @@ _These enchantments apply to swords, adding special effects to melee attacks._
 _These enchantments apply to tridents and maces, providing unique combat abilities._
 
 * **Breath of Gungnir** : (Trident) Transforms the ground into ice and slows targets, creating ice spikes on impact.
+* **Gungnir Breath** : (Trident) Applies Slowness I-II for 3-5 seconds, freezes water into ice, creates visual ice spikes on impact.
 * **Striker** : (Mace) When the player smash an entity with mace, have chance to create a lightning bolt at the impact point.
 * **Wind Propulsion** : (Mace) When the player is on ground, he can attack the ground to propel himself in the air.
 * **Telluric Wave** : (Mace) Creates a seismic wave that launches targets into the air when sneaking.
+* **Propulsion** : (Elytra) Accelerate at fireworks speed when pressing jump in flight, consumes food points.
 
 ***
 
@@ -96,12 +99,13 @@ _These enchantments apply specifically to helmets._
 
 ### <mark style="color:yellow;">Chestplate & Elytra</mark>
 
-_These enchantments apply specifically to chestplates._
+_These enchantments apply to chestplates and elytra._
 
 * **Builder Arm** : (Chestplate) The player can place blocks from more distance, the player can also break blocks from more distance.
 * **Magnet** : (Chestplate) Attracts nearby items to the player automatically.
-* **Armored** : (Elytra) Increase the player's armor for Elytra, the player will take less damage.
-* **Kinetic Protection** : (Elytra) Reduces damage from flying into walls or other obstacles while using elytra.
+* **Armored** : (Elytra) Adds 9 points of protection, increases the player's armor when using elytra.
+* **Kinetic Protection** : (Elytra) Adds 6 points of protection per level (30 at level V) when flying, reduces impact damage.
+* **Happy Boost** : (Mount Harness) Increases flying speed by 50% at level one and 30% per level.
 
 ***
 
@@ -130,7 +134,7 @@ _These enchantments apply specifically to boots._
 
 _These enchantments apply to horse armor and other mount equipment._
 
-* **Rider Egis** : (Mount) Provides damage protection to the mount, reducing damage taken from most sources.
+* **Cavalier Egis** : (Mount) Provides damage protection by 1 point per level (+5 at level V), reducing damage taken from most sources.
 * **Ethereal Leap** : (Mount) Increases the mount's jump strength and reduces fall damage.
 * **Velocity** : (Mount) Increases the movement speed of the mount significantly.
 * **Steel Fang** : (Dog) Increases the attack damage of tamed wolves.

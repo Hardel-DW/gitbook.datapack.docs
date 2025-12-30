@@ -2,6 +2,30 @@
 noIndex: true
 ---
 
-# Feet Enchantment
+# Boots Enchantments
 
-Blank pages, please refer to the pages below.
+_These enchantments apply specifically to boots._
+
+## Lava Walker
+
+When walking on lava, creates a block of magma under the player's feet, the player is immune to lava and magma damage.
+
+{% content-ref url="lava-walker.md" %}
+[lava-walker.md](lava-walker.md)
+{% endcontent-ref %}
+
+## Step Assist
+
+Increase the player's step height, the player can climb blocks more easily without jumping.
+
+{% content-ref url="step-assist.md" %}
+[step-assist.md](step-assist.md)
+{% endcontent-ref %}
+
+## Agility
+
+Increase the player's speed.
+
+{% content-ref url="agility.md" %}
+[agility.md](agility.md)
+{% endcontent-ref %}
