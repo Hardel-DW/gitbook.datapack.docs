@@ -32,7 +32,7 @@ Select the enchantment you wish to modify
 
 On the Voxel interface, select the enchantment you wish to modify from the left-hand list. You can also click on the pink button next to it to deactivate the enchantment, allowing you to edit or remove it effortlessly.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note that a deactivated enchantment will still be in play in the creative menu or via commands.\

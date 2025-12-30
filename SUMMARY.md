@@ -80,7 +80,7 @@
 * [Non Combinable](neo-enchant+/non-combinable.md)
 * [Compatibility with other mods](neo-enchant+/compatibility-with-other-mods.md)
 * [Modify balancing](neo-enchant+/modify-balancing.md)
-* [Technical](technical/README.md)
+* [Technical](neo-enchant+/technical/README.md)
   * [Block Configuration](neo-enchant+/technical/block-configuration.md)
   * [Entity Configuration](neo-enchant+/technical/entity-configuration.md)
   * [Special: Auto Smelt](neo-enchant+/technical/special-auto-smelt.md)

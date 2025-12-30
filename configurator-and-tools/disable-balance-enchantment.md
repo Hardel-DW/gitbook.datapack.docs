@@ -1,3 +1,7 @@
+---
+icon: ban
+---
+
 # Disable/Balance enchantment
 
 ## <mark style="color:orange;">How to balance enchantments</mark>
