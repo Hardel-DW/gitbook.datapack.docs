@@ -1,3 +1,7 @@
+---
+icon: box-open
+---
+
 # Convert Datapack to Mods
 
 ## <mark style="color:orange;">Datapack to Mod Converter</mark>

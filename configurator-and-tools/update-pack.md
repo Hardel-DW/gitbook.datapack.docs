@@ -1,3 +1,7 @@
+---
+icon: wrench
+---
+
 # Update pack
 
 ## <mark style="color:orange;">Updating a Modified Pack</mark>
