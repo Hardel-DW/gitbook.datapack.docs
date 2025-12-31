@@ -49,12 +49,12 @@ The most significant change: **all custom dimensions have been removed**. This e
 
 ### Full Server Compatibility
 
-✅ **Paper** — Full support
-✅ **Bukkit** — Full support
-✅ **Purpur** — Full support
-✅ **Spigot** — Full support
-✅ **Other lightweight server implementations** — Generally compatible
-✅ **Huge Datapacks/Modpacks** — Better compatibility
+✅ **Paper** — Full support  
+✅ **Bukkit** — Full support  
+✅ **Purpur** — Full support  
+✅ **Spigot** — Full support  
+✅ **Other lightweight server implementations** — Generally compatible  
+✅ **Huge Datapacks/Modpacks** — Better compatibility  
 
 ### No Dimension Issues
 
