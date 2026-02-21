@@ -69,6 +69,10 @@ This enchantment cannot be combined with the other enchantments on this list:
 [pull.md](pull.md)
 {% endcontent-ref %}
 
+{% content-ref url="attack-speed.md" %}
+[attack-speed.md](attack-speed.md)
+{% endcontent-ref %}
+
 {% content-ref url="life-steal.md" %}
 [life-steal.md](life-steal.md)
 {% endcontent-ref %}
