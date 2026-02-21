@@ -68,6 +68,10 @@ This enchantment cannot be combined with the other enchantments on this list:
 [runic-despair.md](runic-despair.md)
 {% endcontent-ref %}
 
+{% content-ref url="critical.md" %}
+[critical.md](critical.md)
+{% endcontent-ref %}
+
 {% content-ref url="reach.md" %}
 [reach.md](reach.md)
 {% endcontent-ref %}
