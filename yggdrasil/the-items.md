@@ -34,6 +34,16 @@ A mystical fruit found in special chests within the Runic Labyrinth. Consuming i
 
 
 
+### <mark style="color:orange;">Apple of Era</mark>
+
+Added in Yggdrasil 7.0.0, the Apple of Era is an epic golden apple found in every Runic Crystal within the Runic Dimension. Eating it teleports the player straight back to the Overworld, making it the safest way out of that hostile, lightless realm. (More details on the Runic Dimension page)
+
+{% content-ref url="runic-dimension.md" %}
+[runic-dimension.md](runic-dimension.md)
+{% endcontent-ref %}
+
+
+
 ### <mark style="color:orange;">Midas' Touch</mark>
 
 An artifact of incredible power located within Asgard. This item grants the wielder the ability to transmute blocks into solid gold. (More details on the Asgard page)

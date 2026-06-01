@@ -118,6 +118,16 @@ Mysterious cube structures pulsating with magic within the Runic Dimension, pres
 
 ***
 
+### Runic Crystal
+
+Tall purple structures introduced in Yggdrasil 7.0.0, scattered abundantly across the Runic Dimension. Easy to spot and reach, each one provides a map to the nearest Runic Labyrinth and an Apple of Era that teleports you back to the Overworld.
+
+{% content-ref url="../runic-dimension.md" %}
+[runic-dimension.md](../runic-dimension.md)
+{% endcontent-ref %}
+
+***
+
 ### Glaosheimr Village
 
 Small, peaceful villages nestled in cherry grove biomes, offering a tranquil refuge rather than legendary loot.

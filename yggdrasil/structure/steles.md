@@ -66,3 +66,13 @@ Neogards are imposing fortress-like structures linked to Asgard. They contain a 
 > Object: Map to Asgard
 
 <div><figure><img src="../../.gitbook/assets/Discord_HlgqhRaneQ.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Discord_B5WkY48qR4.jpg" alt=""><figcaption></figcaption></figure></div>
+
+***
+
+### <mark style="color:orange;">Runic Crystal</mark>
+
+Not technically a stele, but Runic Crystals work the same way inside the Runic Dimension. These tall purple structures are extremely common and easy to spot. Each one holds a Runic Labyrinth Map pointing to the nearest labyrinth, along with an Apple of Era that teleports you back to the Overworld.
+
+> Object: Map to Runic Labyrinth (+ Apple of Era)
+
+<figure><img src="../../.gitbook/assets/Discord_NBbLmduX82.jpg" alt=""><figcaption></figcaption></figure>

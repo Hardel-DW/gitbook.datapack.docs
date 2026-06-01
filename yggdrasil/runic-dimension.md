@@ -6,6 +6,18 @@ icon: police-box
 
 <figure><img src=".gitbook/assets/yggrasil-4-runic_island.jpg" alt=""><figcaption></figcaption></figure>
 
+<div><figure><img src=".gitbook/assets/javaw_WwVtM7E94n.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Discord_Sr21sxWAcJ.jpg" alt=""><figcaption></figcaption></figure></div>
+
+> **Updated in Yggdrasil 7.0.0** — The Runic Dimension has been reintroduced. Thanks to the dimension system rework in Minecraft 26.1.2, it can return without the crashes and bugs it caused before. It now features real worldgen, its own biome, and a unique atmosphere.
+
+## <mark style="color:orange;">A hostile, lightless realm</mark>
+
+The Runic Dimension is now a genuine dimension with its own world generation. Be warned before you step through:
+
+* The sky is **pitch black** and there is **no natural light** — bring your own light source.
+* It is **extremely hostile**: monsters spawn freely and do not burn.
+* There is **no food** and **no way to set your spawn** (beds explode), so prepare your supplies and an exit plan before you go.
+
 ## <mark style="color:orange;">Accessing the Runic Dimension</mark>
 
 The primary path to the Runic Dimension involves the Runic Island, which often requires completing steps tied to the Asflors village questline.
@@ -55,19 +67,30 @@ Inside the Runic Island, you'll likely encounter a trial spawner room. Defeating
 {% step %}
 Find the Portal
 
-After clearing the main combat area within the Runic Island, search trapdoors. These lead down to the chamber containing the active portal to the Runic Dimension. Enter the portal.
+After clearing the main combat area within the Runic Island, search trapdoors. These lead down to the chamber containing the active **end gateway** to the Runic Dimension. Step into the gateway to be teleported into the dimension.
 {% endstep %}
 {% endstepper %}
 
 ### Alternative Entry (Secret Passages):
 
-It is possible to _**bypass step three, four and five**_ by discovering one of the five secret passages leading into the Runic Island. These are hidden and finding them requires exploration.
+It is possible to _**bypass step three, four and five**_ by discovering one of the five secret passages leading into the Runic Island. These are hidden and finding them requires exploration.
 
 
 
 ## <mark style="color:orange;">Structures within the Runic Dimension</mark>
 
 This unique dimension hosts several distinct structures:
+
+### Runic Crystals
+
+<figure><img src=".gitbook/assets/Discord_NBbLmduX82.jpg" alt=""><figcaption></figcaption></figure>
+
+Added in 7.0.0, **Runic Crystals** are tall purple structures scattered all over the dimension. They are extremely common, easy to spot, and easy to reach, which makes them your most reliable landmark in this hostile realm. Each crystal holds two key rewards:
+
+* A **Runic Labyrinth Map**, pointing you to the nearest Runic Labyrinth.
+* An **Apple of Era**, an epic golden apple that **teleports you back to the Overworld when eaten** — your guaranteed way out.
+
+### Other structures
 
 {% content-ref url="yggdrasil/structure/runic-labyrinth.md" %}
 [runic-labyrinth.md](yggdrasil/structure/runic-labyrinth.md)
@@ -89,8 +112,8 @@ This unique dimension hosts several distinct structures:
 
 ## <mark style="color:orange;">Exiting the Runic Dimension</mark>
 
-There are two primary ways to return to the normal world:
+There are several ways to return to the normal world:
 
-1. Via a Runic Island: Copies of Runic Islands appear in the Runic Dimension at the exact same coordinates as their counterparts in the normal world. If you entered through a Runic Island, you can return to its dimensional counterpart and use the portal there.
-   1. _Note: If you discovered secret passages on your first visit to the Overworld Runic Island, you can potentially use those same passages on the Runic Dimension version to bypass the entrance mechanism._
-2. Via Dokkalfar Ruins: Locate Dokkalfar Ruins structures within the Runic Dimension. These small ruins contain active portals that lead back to the normal world.
+1. **Apple of Era**: Eating the Apple of Era found in any Runic Crystal teleports you instantly back to the Overworld. This is the easiest and most reliable exit.
+2. **Runic Labyrinth summit**: The portal at the top of the Runic Labyrinth offers another route back to the Overworld.
+3. **Dokkalfar Ruins**: Locate Dokkalfar Ruins within the Runic Dimension. These small ruins contain gateways that lead back to the normal world.

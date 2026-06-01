@@ -17,6 +17,12 @@ coverY: 0
 
 Hidden within the runic dimension, the Runic Labyrinth delves deep underground, accessible only via a chasm piercing the surface. Brace yourself, as this ranks among the game's most intricate and challenging structures. Sprawling over a massive 500x500 block area, this colossal maze guarantees hours upon hours of exploration
 
+> **Updated in Yggdrasil 7.0.0** — The labyrinth has grown even larger and now features a magnificent portal at its summit instead of a simple hole. Fresh rewards and dangers await you at the top, along with another way to return to the Overworld.
+
+### Finding it
+
+Every **Runic Crystal** in the dimension provides a **Runic Labyrinth Map** that leads you straight to the nearest labyrinth, making it far easier to locate than before.
+
 
 
 ## <mark style="color:orange;">Legendary Weapons</mark>
