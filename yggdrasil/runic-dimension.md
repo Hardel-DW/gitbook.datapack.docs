@@ -30,7 +30,7 @@ Start in Asflors (Optionnal)
 
 Locate an Asflors village. Initiate the quest. This questline is designed to eventually grant you the key needed to open the main entrance of the Runic Island.
 
-[asflors-village.md](yggdrasil/structure/asflors-village.md "mention")
+[asflors-village.md](structure/asflors-village.md "mention")
 {% endstep %}
 
 {% step %}
@@ -47,7 +47,7 @@ Travel to the Runic Island:
 
 Use the map to find the island floating in the sky. You can also find the Runic Island Stele for getting the map.
 
-[runic-island.md](yggdrasil/structure/runic-island.md "mention")[steles.md](yggdrasil/structure/steles.md "mention")
+[runic-island.md](structure/runic-island.md "mention")[steles.md](structure/steles.md "mention")
 {% endstep %}
 
 {% step %}
@@ -92,20 +92,20 @@ Added in 7.0.0, **Runic Crystals** are tall purple structures scattered all over
 
 ### Other structures
 
-{% content-ref url="yggdrasil/structure/runic-labyrinth.md" %}
-[runic-labyrinth.md](yggdrasil/structure/runic-labyrinth.md)
+{% content-ref url="structure/runic-labyrinth.md" %}
+[runic-labyrinth.md](structure/runic-labyrinth.md)
 {% endcontent-ref %}
 
-{% content-ref url="yggdrasil/structure/runic-alfheim.md" %}
-[runic-alfheim.md](yggdrasil/structure/runic-alfheim.md)
+{% content-ref url="structure/runic-alfheim.md" %}
+[runic-alfheim.md](structure/runic-alfheim.md)
 {% endcontent-ref %}
 
-{% content-ref url="yggdrasil/structure/cubeoid.md" %}
-[cubeoid.md](yggdrasil/structure/cubeoid.md)
+{% content-ref url="structure/cubeoid.md" %}
+[cubeoid.md](structure/cubeoid.md)
 {% endcontent-ref %}
 
-{% content-ref url="yggdrasil/structure/dokkalfar-ruins.md" %}
-[dokkalfar-ruins.md](yggdrasil/structure/dokkalfar-ruins.md)
+{% content-ref url="structure/dokkalfar-ruins.md" %}
+[dokkalfar-ruins.md](structure/dokkalfar-ruins.md)
 {% endcontent-ref %}
 
 
