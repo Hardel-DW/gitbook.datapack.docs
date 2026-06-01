@@ -4,7 +4,7 @@
 * [Community & Support](community-and-support.md)
 * [Question and Answer for Datapacks](faq.md)
 
-## Neo Enchant+
+## Neo Enchant+ <a href="#neo-enchant" id="neo-enchant"></a>
 
 * [Getting Started](neo-enchant/getting-started.md)
 * [Enchantment](neo-enchant/enchantment/README.md)
